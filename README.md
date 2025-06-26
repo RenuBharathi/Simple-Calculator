@@ -1,2 +1,3 @@
-# Simple programs
-A simple calculator program written in python 
+# Simple python programs
+1.A simple calculator program.
+2.A basic Temperature converter.
